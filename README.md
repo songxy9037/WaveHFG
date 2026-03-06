@@ -1,4 +1,4 @@
-# [WaveHFG: High-Frequency Guidance for Heterogeneous Remote Sensing Image Change Detection with Wavelet Features](https://ieeexplore.ieee.org/document/11343859)
+# [WaveHFG: High-Frequency Guidance for Heterogeneous Remote Sensing Image Change Detection with Wavelet Features](https://ieeexplore.ieee.org/document/11343859) (TGRS 2026)
 ---
 
 ### 📌 Quick Navigation
