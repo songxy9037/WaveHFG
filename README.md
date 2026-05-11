@@ -31,7 +31,9 @@ Heterogeneous change detection (Hete-CD) between optical and synthetic aperture 
 ---
 
 ## 📊 GF-HCD Dataset
+![GF-HCD Dataset Preview](./figures/GF_HCD.png)
 
+*Figure: Visualization of the GF-HCD dataset samples.*
 We publicly release the **GF-HCD** dataset used in our paper for heterogeneous remote sensing image change detection.
 
 ### Download
